@@ -1,6 +1,7 @@
 == Welcome to Rails
+Ruby on Rails sample tutorial
 
-Rails is a web-application framework that includes everything needed to create
+This is sample application for ROR
 database-backed web applications according to the Model-View-Control pattern.
 
 This pattern splits the view (also called the presentation) into "dumb"
